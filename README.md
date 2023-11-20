@@ -1,4 +1,4 @@
-# Blood Bank Management System
+# Blood Bank Management System -BBMS
 
 The Blood Bank Management System is a simple console-based application that allows users to register, log in, and perform various operations related to blood donors.
 
